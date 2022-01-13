@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roshan&#39;s Website</title>
-    <link>https://hugo-profile.netlify.app/</link>
+    <link>https://roshangthomas.github.io/</link>
     <description>Recent content on Roshan&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jan 2022 17:05:06 -0800</lastBuildDate><atom:link href="https://roshangthomas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://roshangthomas.github.io/blog/first/</link>
+      <pubDate>Wed, 12 Jan 2022 17:05:06 -0800</pubDate>
+      
+      <guid>https://roshangthomas.github.io/blog/first/</guid>
+      <description>Blog coming Soon!</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://roshangthomas.github.io/first/</link>
+      <pubDate>Wed, 12 Jan 2022 17:05:06 -0800</pubDate>
+      
+      <guid>https://roshangthomas.github.io/first/</guid>
+      <description>Blog coming Soon!</description>
+    </item>
+    
   </channel>
 </rss>
